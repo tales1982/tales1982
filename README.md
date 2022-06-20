@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Ola eu me chamo Tales Lima 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tales1982&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tales1982&layout=compact&theme=tokyonight"/>
+</div>
+<h2>Minhas redes sociais</h2>
+Em andamento!!!!
 <!--
 **tales1982/tales1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
