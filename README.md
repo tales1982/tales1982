@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-Ola eu me chamo Tales Lima 
+About me @TALES LIMA
+-I am a javascript, javascript framework, php and php framework expert
+
+-My main skill: React, node.js, Next.js, Vue,js, express, css, PHP, laravel, javascript, html5 etc...
+
+-My database skill: MongoDB, Mysql,
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tales1982&show_icons=true&theme=tokyonight"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tales1982&layout=compact&theme=tokyonight"/>
