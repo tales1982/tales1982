@@ -3,7 +3,7 @@ Thank you for visit my Github. 👋
 About me @TALES LIMA
 -I am a javascript, javascript framework, php and php framework expert
 
--My main skill: React, node.js, Next.js, Vue,js, express, css, PHP, laravel, javascript, html5 etc...
+-My main skill: REACT, SASS, MYSQL, CSS, BOOTSTRAP, SEO, PHP, C, C++, JAVASCRIPT, JQUERY, HTML5, UI, LINUX, BASIC JAVA, etc...
 
 -My database skill: MongoDB, Mysql,
 <div>
