@@ -17,13 +17,9 @@ About me @TALES LIMA
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,js,php,nodejs,bash,bootstrap,css,html,linux,gtk,github,git,blender,webpack,vercel,figma&theme=light)](https://skillicons.dev)
 
-<h2 style="align-items: center">My social networks</h2>
+<h2>My social networks</h2>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **tales1982/tales1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
