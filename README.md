@@ -12,7 +12,11 @@ About me @TALES LIMA
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tales1982&layout=compact&theme=tokyonight"/>
 </div>
 <h2>Languages and Tools:</h2>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&weight=800&pause=1000&color=018A0B&background=1514FF00&width=435&lines=Tales+Lima+;I+am+a+software+developer.;My+Skill+%3A+REACT%2C+SASS%2C+BOOTSTRAP%2C+;CSS%2C+PHP%2C+C%2B%2B%2C+JAVASCRIPT%2C+JQUERY)](https://git.io/typing-svg)
 
 <!--
