@@ -1,5 +1,5 @@
 Thank you for visit my Github. 👋
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 
 About me @TALES LIMA
 -I am a javascript, javascript framework, php and php framework expert
@@ -12,6 +12,7 @@ About me @TALES LIMA
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tales1982&layout=compact&theme=tokyonight"/>
 </div>
 <h2>Languages and Tools:</h2>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&weight=800&pause=1000&color=018A0B&background=1514FF00&width=435&lines=Tales+Lima+;REACT%2C+SASS%2C+BOOTSTRAP%2C++JQUERY;+PHP%2C+C+%2C+C%2B%2B%2C+C%23%2C+JAVASCRIPT;Oracle+Database+19c%2C+MongoDB%2C+Mysql%2C;HTML5%2C+UI%2C+LINUX%2C+BASIC+JAVA)](https://git.io/typing-svg)
