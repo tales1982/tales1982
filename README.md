@@ -13,7 +13,7 @@ About me @TALES LIMA
 </div>
 <h2>Languages and Tools:</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&weight=800&pause=1000&color=018A0B&background=1514FF00&width=435&lines=Tales+Lima+;I+am+a+software+developer.;My+Skill+%3A+REACT%2C+SASS%2C+BOOTSTRAP%2C+;CSS%2C+PHP%2C+C%2B%2B%2C+JAVASCRIPT%2C+JQUERY)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&weight=800&pause=1000&color=018A0B&background=1514FF00&width=435&lines=Tales+Lima+;REACT%2C+SASS%2C+BOOTSTRAP%2C++JQUERY;+PHP%2C+C+%2C+C%2B%2B%2C+C%23%2C+JAVASCRIPT;Oracle+Database+19c%2C+MongoDB%2C+Mysql%2C;HTML5%2C+UI%2C+LINUX%2C+BASIC+JAVA)](https://git.io/typing-svg)
 <!--
 **tales1982/tales1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
