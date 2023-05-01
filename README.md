@@ -19,7 +19,7 @@ About me @TALES LIMA
 
 <h2>My social networks</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin,twitter,instagram)](https://www.linkedin.com/in/tales-lima-de-paula-900097242/details/education/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin,twitter,instagram)](https://www.linkedin.com/in/tales-lima-de-paula-900097242/details/education/,https://twitter.com/tales_lima_)
 <!--
 **tales1982/tales1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
