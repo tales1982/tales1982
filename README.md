@@ -5,7 +5,7 @@ About me @TALES LIMA
 
 -My main skill: REACT, SASS, MYSQL, CSS, BOOTSTRAP, SEO, PHP, C, C++, JAVASCRIPT, JQUERY, HTML5, UI, LINUX, BASIC JAVA, etc...
 
--My database skill: MongoDB, Mysql,
+-My database skill: Oracle Database 19c, MongoDB, Mysql,
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tales1982&show_icons=true&theme=tokyonight"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tales1982&layout=compact&theme=tokyonight"/>
