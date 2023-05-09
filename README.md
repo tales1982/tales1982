@@ -15,7 +15,7 @@ About me @TALES LIMA
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&weight=800&pause=1000&color=018A0B&background=1514FF00&width=435&lines=Tales+Lima+;REACT%2C+SASS%2C+BOOTSTRAP%2C++JQUERY;+PHP%2C+C+%2C+C%2B%2B%2C+C%23%2C+JAVASCRIPT;Oracle+Database+19c%2C+MongoDB%2C+Mysql%2C;HTML5%2C+UI%2C+LINUX%2C+BASIC+JAVA)]
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,js,php,nodejs,bash,codepen,babel,bootstrap,css,html,linux,gtk,github,git,blender,webpack,vercel,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,js,php,nodejs,bash,codepen,babel,sass,bootstrap,jquery,css,html,linux,gtk,github,git,blender,webpack,vercel,eclipse,idea,vim,visualstudio,vscode,powershell,stackoverflow,figma&theme=light)](https://skillicons.dev)
 
 <h2>My social networks</h2>
 
