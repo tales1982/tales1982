@@ -4,7 +4,7 @@ Thank you for visit my Github. 👋
 About me @TALES LIMA
 -I am a javascript, javascript framework, php and php framework expert
 
--My main skill: REACT, SASS, MYSQL, CSS, BOOTSTRAP, SEO, PHP, C, C++, JAVASCRIPT, JQUERY, HTML5, UI, LINUX, BASIC JAVA, etc...
+-My main skill: REACT, SASS, MYSQL, CSS, BOOTSTRAP, SEO, PHP, C, C++, JAVASCRIPT, JQUERY, HTML5, UI, LINUX, JAVA, etc...
 
 -My database skill: Oracle Database 19c, MongoDB, Mysql,
 <div>
