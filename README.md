@@ -1,37 +1,89 @@
-Thank you for visit my Github. 👋
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f3d2e,100:00ff9f&height=200&section=header&text=Tales%20Lima&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Junior%20SOC%20Analyst%20%E2%80%A2%20Blue%20Team%20%E2%80%A2%20Luxembourg&descAlignY=58&descSize=18&animation=fadeIn" alt="Tales Lima banner" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/tales1982">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9F&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+Junior+SOC+Analyst;Monitoring+%E2%80%A2+Detection+%E2%80%A2+Incident+Response;Wazuh+%7C+Sysmon+%7C+Sigma+%7C+Suricata;Former+Full-Stack+Developer+(Java+%2F+React)" alt="Typing SVG" />
+  </a>
+</p>
 
-About me @TALES LIMA
--I am a javascript, javascript framework, php and php framework expert
+<p align="center">
+  <a href="https://www.linkedin.com/in/tales-lima-de-paula/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfolio-cybersecurity-zeta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-00FF9F?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Open%20to%20work-SOC%20Analyst-0f3d2e?style=for-the-badge" alt="Open to work" />
+</p>
 
--My main skill: REACT, SASS, MYSQL, CSS, BOOTSTRAP, SEO, PHP, C, C++, JAVASCRIPT, JQUERY, HTML5, UI, LINUX, JAVA, etc...
+---
 
--My database skill: Oracle Database 19c, MongoDB, Mysql,
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tales1982&show_icons=true&theme=tokyonight"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tales1982&layout=compact&theme=tokyonight"/>
-</div>
-<h2>Languages and Tools:</h2>
+### 🛡️ About me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courgette&weight=800&pause=1000&color=018A0B&background=1514FF00&width=435&lines=Tales+Lima+;REACT%2C+SASS%2C+BOOTSTRAP%2C++JQUERY;+PHP%2C+C+%2C+C%2B%2B%2C+C%23%2C+JAVASCRIPT;Oracle+Database+19c%2C+MongoDB%2C+Mysql%2C;HTML5%2C+UI%2C+LINUX%2C+BASIC+JAVA)]
+I'm a cybersecurity professional moving into **Security Operations** after several years building full-stack and blockchain applications.
+Coming from development, I understand how systems are built, which helps me see how they break and how to detect it.
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,ruby,js,react,vue,php,nodejs,bash,codepen,babel,sass,gulp,bootstrap,sequelize,jquery,css,html,linux,gtk,github,git,blender,webpack,vercel,eclipse,idea,vim,visualstudio,vscode,powershell,stackoverflow,figma&theme=light)](https://skillicons.dev)
+- 🔭 Running a **home SOC**: Wazuh on a dedicated server monitoring real devices on my network
+- 🧪 Writing detections with **Sysmon + Sigma**, analysing PCAPs, simulating attacks with **Atomic Red Team**
+- 🎓 42 Luxembourg · DLH Cybersecurity training · Cybersecurity degree at Unigran Brussels
+- 🌍 Portuguese (native) · French (professional) · English
 
-<h2>My social networks</h2>
+---
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tales-lima-de-paula-900097242/details/education/) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/tales_lima_) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/taleslimadepaula/)
-<!--
-**tales1982/tales1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Featured projects
 
-Here are some ideas to get you started:
+| Project | What it is |
+|---|---|
+| 🔐 [**soc-ransomware-isolation-lab**](https://github.com/tales1982/soc-ransomware-isolation-lab) | Automated ransomware detection, isolation and IR in media storage networks — Wazuh, Sysmon, auditd, Suricata, Python, Ansible |
+| 🛡️ [**dlh-cyber_security**](https://github.com/tales1982/dlh-cyber_security) | Blue team notes, IR/DFIR playbooks and threat detection exercises |
+| 🐍 [**PYTHON**](https://github.com/tales1982/PYTHON) | Python security tooling: crawlers, parsers, pentest and SOC automation scripts |
+| 🌐 [**PORTFOLIO-CYBERSECURITY**](https://github.com/tales1982/PORTFOLIO-CYBERSECURITY) | My cybersecurity portfolio (Next.js / TypeScript) |
+| ⛓️ [**BLOCKCHAIN**](https://github.com/tales1982/BLOCKCHAIN) | Solidity & Web3 projects — smart contracts and security fundamentals |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Snake animation](https://github.com/tales1982/tales1982/blob/output/github-contribution-grid-snake.svg)
+---
+
+### 🧰 Toolbox
+
+**Security**
+
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma%20Rules-6E4C13?style=flat-square)
+![Suricata](https://img.shields.io/badge/Suricata-EF7F1A?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+
+**Development & Infra**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,java,spring,ts,react,nextjs,solidity,docker,kubernetes,postgres,git&theme=dark" alt="Dev skills" />
+</p>
+
+---
+
+### 📜 Certifications
+
+![IBSEC](https://img.shields.io/badge/IBSEC-SOC%20Analyst%20Essential-0f3d2e?style=flat-square)
+![IBSEC](https://img.shields.io/badge/IBSEC-SOC%20Analyst%20Professional-0f3d2e?style=flat-square)
+![HackerSec](https://img.shields.io/badge/HackerSec-Certified%20Pentester%20(HCP)-0f3d2e?style=flat-square)
+![CompTIA](https://img.shields.io/badge/CompTIA-Security%2B%20(in%20progress)-555555?style=flat-square)
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tales1982&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9f&icon_color=00ff9f&text_color=c9d1d9" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tales1982&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c9d1d9" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/tales1982/tales1982/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,50:0f3d2e,100:0d1117&height=100&section=footer" alt="footer" />
+</p>
