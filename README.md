@@ -81,7 +81,10 @@ Coming from development, I understand how systems are built, which helps me see 
 </p>
 
 <p align="center">
-  <img src="https://github.com/tales1982/tales1982/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tales1982/tales1982/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/tales1982/tales1982/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  </picture>
 </p>
 
 <p align="center">
